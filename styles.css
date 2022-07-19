@@ -1,7 +1,13 @@
 body {color: darkslategray;
     background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 
-h1 {color: white; background-color: lightseagreen;}
-h2 {color: lightseagreen;}
+h1 {color: white; background-color: lightseagreen;
+    font-family: 'Poppins', sans-serif;
+}
+h2 {color: lightseagreen;
+    font-family: 'Poppins', sans-serif;
+}
 a {color: lightseagreen;}

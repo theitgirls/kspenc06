@@ -1,7 +1,6 @@
 body {color: darkslategray;
     background-color: lightblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
 }
 
 h1 {color: white; background-color: lightseagreen;
@@ -11,3 +10,10 @@ h2 {color: lightseagreen;
     font-family: 'Poppins', sans-serif;
 }
 a {color: lightseagreen;}
+
+nav {background-color: darkcyan;}
+
+nav a {color: white;}
+nav {color: white;}
+
+nav a:hover {background-color: gray;}

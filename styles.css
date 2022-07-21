@@ -20,3 +20,11 @@ nav a {color: white;}
 nav {color: white;}
 
 nav a:hover {background-color: gray;}
+
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+}
